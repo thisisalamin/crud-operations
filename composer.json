@@ -1,0 +1,19 @@
+{
+    "name": "alamin/crud-operations",
+    "description": "Handle all CRUD operations.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Alamin\\CrudOperations\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thisisalamin",
+            "email": "thisismdalamin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

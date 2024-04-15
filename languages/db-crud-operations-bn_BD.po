@@ -1,0 +1,66 @@
+# Copyright (C) 2024 Mohamed Alamin
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: DB CRUD Operations 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/db-crud-"
+"operations\n"
+"POT-Creation-Date: 2024-04-15T14:41:41+00:00\n"
+"PO-Revision-Date: 2024-04-15 20:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: db-crud-operations\n"
+
+#. Plugin Name of the plugin
+#: C:\wamp64\www\mytestsite\wp-content\plugins\db-crud-operations\db-crud-operations.php
+msgid "DB CRUD Operations"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:\wamp64\www\mytestsite\wp-content\plugins\db-crud-operations\db-crud-operations.php
+msgid "https://github.com/thisisalamin/crud-operations"
+msgstr ""
+
+#. Description of the plugin
+#: C:\wamp64\www\mytestsite\wp-content\plugins\db-crud-operations\db-crud-operations.php
+msgid "Handle all CRUD operations."
+msgstr ""
+
+#. Author of the plugin
+#: C:\wamp64\www\mytestsite\wp-content\plugins\db-crud-operations\db-crud-operations.php
+msgid "Mohamed Alamin"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\wamp64\www\mytestsite\wp-content\plugins\db-crud-operations\db-crud-operations.php
+msgid "https://example.com"
+msgstr ""
+
+#: includes/Admin/AdminPage.php:45
+msgid "Data not found"
+msgstr ""
+
+#: includes/Admin/AdminPage.php:94
+msgid "Data inserted successfully"
+msgstr ""
+
+#: includes/Admin/AdminPage.php:96
+msgid "Failed to insert data"
+msgstr ""
+
+#: includes/Admin/Form.php:87
+msgid "Add New"
+msgstr ""
+
+#: includes/Admin/Table.php:43
+msgid "Edit"
+msgstr ""
+
+#: includes/Admin/Table.php:44
+msgid "Delete"
+msgstr ""
